@@ -54,15 +54,6 @@ Small but realistic dataset of **30 e-commerce transactions** embedded in code.
 
 ---
 
-## 🔁 Workflow
-
-```mermaid
-flowchart LR
-A[Dataset] --> B[SQL Analysis]
-B --> C[Python EDA & Visuals]
-C --> D[Sentiment Analysis NLP]
-D --> E[AI Generated Insights]
-E --> F[Natural Language Query System]
 🧮 SQL Analysis Examples
 
 ✔ Total Revenue
